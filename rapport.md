@@ -6,6 +6,18 @@ Kort om caset: Erling, 34 år, prosjektleder i en kommune sør i Norge. Han skal
 Målet med denne oppstartspakken er å gi Erling konkrete anbefalinger til hvordan han kan lykkes i "forming"-fasen av prosjektet og bygge et sterkt team.
 
 ## 1. Strategi for rekruttering og sammensetning
+
+Siden prosjektet krever et team sammensatt av syv til åtte personer med ulike bakgrunner, er det viktig at han setter seg inn i både kompetanse og faglig bakgrunn. Et team fungerer best når medlemmene utfyller hverandre. Erling har allerede gjort litt planlegging på hva slags roller og oppgaver prosjektet krever. 
+
+Et mangfoldig team gir bedre problemløsning og mer kreativitet. Erling må sikre at alle nødvendige roller er dekket. Forskjellig kjønn, alder, kulturell bakgrunn og personlighetstyper er viktige trekk Erling bør sette seg inn i før han rekrutterer. Et viktig punkt i startfasen, er å ha en viss sosial og demografisk likhet. Dette vil si at Erling bør inkludere personer som deler felles interesser og likheter.
+
+Forskning viser at likhet i alder, og bakgrunn kan bidra til å skape tidlig tillit, som igjen legger grunnlaget for god samhandling og åpen dialog. Sjansen for at teamet deler ideer og tanker vil øke dersom disse prinsippene er fastslått. 
+
+Ved å tenke nøye gjennom både faglig bredde og sosial sammensetning i rekrutteringsfasen, legger man et solid grunnlag for et effektivt og velfungerende prosjektteam. Tidlig planlegging på dette områder forebygger misforståelser, rolle uklarhet og samarbeidsutforskning senere i prosjektet. 
+
+Med tanke på et team sammensatt av personer med ulik bakgrunn, er det viktig at Erling setter seg inn i både kompetanse og faglig bakgrunn. 
+Det er viktig at medlemmene i gruppen kommer godt i gang og samarbeider bra, da tidspress kan øke konfliktnivået betydelig. 
+
 For Erlings team på 7–8 personer er det lurt å sette sammen en god miks av roller slik at alle viktige oppgaver er dekket fra start. En kombinasjon av roller som produksjon, administrasjon, integrasjon, entreprenørskap og økonomi gir prosjektet et solid fundament og bidrar til å unngå problemer senere i prosessen. 
 Produksjon: Denne rollen er ansvarlig for å bygge selve portalen og sikre at den fungerer som planlagt. Rollen gjør ideer om til noe konkret og driver den tekniske utviklingen fremover. 
 Administrasjon: Holder oversikt over planer, oppgaver og tidsfrister slik at teamet holder seg organisert. Dette gjør det lettere for alle å vite hva som skal gjøres og når. 

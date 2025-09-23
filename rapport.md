@@ -9,7 +9,10 @@ Målet med denne oppstartspakken er å gi Erling konkrete anbefalinger til hvord
 *(Truls og Lubo sitt bidrag her)*
 
 ## 2. Design av det første møtet
-*(Laila og Rebekka sitt bidrag her)*
+Det første møtet er det viktig å fokusere på team bygging slik at man danner et godt grunnlag for videre samarbeid. Dette innebærer at personlig relasjon blir tatt hensyn til, i tillegg til at de ansatte får en felles forståelse av videre oppgaver, samarbeid og ansvarsfordeling. 
+Møtet starter med en kort introduksjon der prosjektlederen presenterer seg selv, informerer om opplegget og ansvarsfordeling. Hensikten bak dette er at alle skal få en felles forståelse av opplegget, samt deres ansvar utover møtet. Prosjektlederen informerer også kort om tidsperspektivet og pauser som vil ta plass. I tillegg til dette opplyser prosjektlederen om visse krav for prosjektet, hva som kreves i et team samarbeid, hvilke mål som forventes å oppnå, utfordringer som kan oppstå, tidsrammer og tilgjengelige ressurser. Denne introduksjonen vil ta noen få minutter, men den vil sette tydelige rammer for hva som forventes av alle deltakerne i møtet.
+
+
 
 ## 3. Rammer for relasjonelle kontrakter
 *(Anders sitt bidrag her)*

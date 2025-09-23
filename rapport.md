@@ -6,7 +6,15 @@ Kort om caset: Erling, 34 år, prosjektleder i en kommune sør i Norge. Han skal
 Målet med denne oppstartspakken er å gi Erling konkrete anbefalinger til hvordan han kan lykkes i "forming"-fasen av prosjektet og bygge et sterkt team.
 
 ## 1. Strategi for rekruttering og sammensetning
-*(Truls og Lubo sitt bidrag her)*
+For Erlings team på 7–8 personer er det lurt å sette sammen en god miks av roller slik at alle viktige oppgaver er dekket fra start. En kombinasjon av roller som produksjon, administrasjon, integrasjon, entreprenørskap og økonomi gir prosjektet et solid fundament og bidrar til å unngå problemer senere i prosessen. 
+Produksjon: Denne rollen er ansvarlig for å bygge selve portalen og sikre at den fungerer som planlagt. Rollen gjør ideer om til noe konkret og driver den tekniske utviklingen fremover. 
+Administrasjon: Holder oversikt over planer, oppgaver og tidsfrister slik at teamet holder seg organisert. Dette gjør det lettere for alle å vite hva som skal gjøres og når. 
+Integrasjon: Jobber på tvers av teamet for å knytte sammen de ulike delene av prosjektet og sørge for tydelig kommunikasjon. Dette forebygger misforståelser og sikrer at alle er på samme side. 
+Entreprenørskap: Bidrar med nye ideer og ser etter muligheter underveis. Denne personen hjelper teamet med å være kreative og motiverte, i stedet for bare å følge den opprinnelige planen. 
+Økonomi: Følger opp budsjettet og sørger for at midlene brukes fornuftig. Dette er avgjørende for å unngå økonomiske problemer gjennom prosjektets tidsrammer.
+Hvorfor god flyt tidlig i prosjektet er viktig
+Å få til en god flyt fra starten er nøkkelen til å sette standarden for resten av prosjektet. Når alle forstår sin rolle og føler seg trygge på samarbeid, blir det enklere å bygge tillit og ta raske og smarte beslutninger. En sterk start gir færre konflikter, bedre samarbeid og større sjanse for å nå målene til rett tid.
+
 
 ## 2. Design av det første møtet
 Det første møtet er det viktig å fokusere på team bygging slik at man danner et godt grunnlag for videre samarbeid. Dette innebærer at personlig relasjon blir tatt hensyn til, i tillegg til at de ansatte får en felles forståelse av videre oppgaver, samarbeid og ansvarsfordeling. 

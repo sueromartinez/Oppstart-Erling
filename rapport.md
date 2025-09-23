@@ -9,7 +9,18 @@ Målet med denne oppstartspakken er å gi Erling konkrete anbefalinger til hvord
 *(Truls og Lubo sitt bidrag her)*
 
 ## 2. Design av det første møtet
-*(Laila og Rebekka sitt bidrag her)*
+Del A -Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for relasjonsbygging. 
+
+Det første møtet er det viktig å fokusere på team bygging slik at man danner et godt grunnlag for videre samarbeid. Dette innebærer at personlig relasjon blir tatt hensyn til, i tillegg til at de ansatte får en felles forståelse av videre oppgaver, samarbeid og ansvarsfordeling. 
+Møtet starter med en kort introduksjon der prosjektlederen presenterer seg selv, informerer om opplegget og ansvarsfordeling. Hensikten bak dette er at alle skal få en felles forståelse av opplegget, samt deres ansvar utover møtet. Prosjektlederen informerer også kort om tidsperspektivet og pauser som vil ta plass. I tillegg til dette opplyser prosjektlederen om visse krav for prosjektet, hva som kreves i et team samarbeid, hvilke mål som forventes å oppnå, utfordringer som kan oppstå, tidsrammer og tilgjengelige ressurser. Denne introduksjonen vil ta noen få minutter, men den vil sette tydelige rammer for hva som forventes av alle deltakerne i møtet.
+Et sentralt element for å bygge solide relasjoner er at de ansatte får lov til å bli kjent med hverandre. Det inkluderer bli kjent leker, som da vil være med på å danne personlige relasjoner blant deltakerne. En typisk bli kjent lek som kan være med på å «bryte isen» mellom deltakerne er to sannheter og en løgn. Prosjektleder vil fordele alle i grupper på 4-5 stykk. Dette er for å unne etablere en mer direkte og personlig kommunikasjon. Hensikten er for å få en reduksjon i sosial angst, tillegg til at det bygger psykologisk trygghet og fremmer tilhørighet i et team. 
+
+Etterfølgende vil det bli det en uformell pause der det vil bli servert gratis mat. Dette er for å skape rom for lav terskel samtaler blant de ulike i teamet. 
+
+Etter pausen vil alle bli bedt om å sette seg med gruppene sine, deretter presentere hva de har lært om hverandre, gruppedynamikken, og hverandres styrker og svakheter. Dette er for å vise til at de har blitt kjent med hverandre gjennom relasjonsbygging. Etter alle gruppene har presentert, vil prosjektlederen avslutte møtet der han tar opp ulike temaer som har blitt presentert, komme med tips og forslag, i tillegg til å åpne opp for spørsmål. Deretter er møtet avsluttet.
+
+
+
 
 ## 3. Rammer for relasjonelle kontrakter
 *(Anders sitt bidrag her)*

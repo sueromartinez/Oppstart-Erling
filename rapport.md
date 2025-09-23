@@ -67,3 +67,4 @@ Oppsummering av de seks punktene. Refleksjon rundt hvorfor denne pakken styrker 
 ## Referanser
 - [Kilder fra pensum i APA 7-format]
 - Treadwell, T., Leach, E., & Ashcraft, D. (12.04.2024.). Tuckman’s stages of group development. West Chester University of Pennsylvania. https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx 
+OK, S. (5. november). Slik lager du en god oppstart for team. Distilled. Hentet fra https://www.distilled.no/artikler/slik-lager-du-en-god-oppstart-for-team 

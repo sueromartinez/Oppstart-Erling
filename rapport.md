@@ -15,7 +15,11 @@ Møtet starter med en kort introduksjon der prosjektlederen presenterer seg selv
 
 
 ## 3. Rammer for relasjonelle kontrakter
-*(Anders sitt bidrag her)*
+For at prosjektet til Erling skal fungere, er det ikke nok å bare fokusere på ''jerntriangelet'', som består av tid, kostnad og kvalitet, men også relasjonelle forhold og hvordan selve samarbeidet mellom prosjektleder og eier skal foregå. Å sette tydelig rammer og sette opp forventninger til hverandre kan fungere som et supplement som styrker tillit og samhold. 
+Det første steget i kontrakten er å sette mål og en tydelig prosjektvisjon. Hva er det vi ønsker å oppnå, og hvordan vi skal samarbeide og jobbe for å få til dette. I dette tilfelle har prosjektet et mål om å øke innbyggerengasjement og transparensen i kommunale beslutningsprosesser med 20% det første året etter lansering.  
+Grunnen til at man setter seg mål og etablerer et rammeverk fra start er at det minsker risiko for misforståelser og uklarhet, i tillegg til at det ofte er lettere å jobbe på prosjekter når man vet hva man jobber mot. 
+Noe annet som kan være lurt å inkludere er samhandlingsprinsipper. Et strukturert og disiplinert kommunikasjonsmønster kan være avgjørende for at prosjektsamarbeidet skal fungere bra og at man skal oppnå målene sine. For eksempel kan faste statusmøter og oppfølging sikre åpenhet og fremme tillit til hverandre. Dette kan også fungere som en konflikthåndteringsplattform slik at interne problemer kan løses så fort som mulig. 
+Mandat og ansvarsområder må defineres skriftlig for prosjekteier og prosjektleder. Denne burde inneholde og beskrive for eksempel hva prosjektleder kan gjøre uten bekreftelse av eier, og hva leder må ha godkjenning på. Denne løsningen gir prosjektleder handlingsrom, samtidig som prosjekteier opprettholder oversikt over prosjektet. 
 
 ## 4. Proaktive mekanismer for konflikthåndtering
 *(Kaja sitt bidrag her)*

@@ -94,5 +94,4 @@ Sagberg, I. (2020, 21. oktober). Psykologisk trygghet. *Store norske leksikon*. 
 Treadwell, T., Leach, E., & Ashcraft, D. (2024, april 12). *Tuckman’s stages of group development*. West Chester University of Pennsylvania. https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx
 
 OK, S. (2023, 5. november). Slik lager du en god oppstart for team. *Distilled*. https://www.distilled.no/artikler/slik-lager-du-en-god-oppstart-for-team
-
-la
+a
